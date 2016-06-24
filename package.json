@@ -1,0 +1,30 @@
+{
+  "name": "react-tui",
+  "version": "0.0.1",
+  "description": "Mobile ui elements",
+  "scripts": {
+    "babel": "",
+    "sass": "",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFantasy/react-tui.git"
+  },
+  "keywords": [
+    "react",
+    "react-components",
+    "component",
+    "mobile"
+  ],
+  "author": "Fantasy Shao <fantasyshao@icloud.com>",
+  "license": "MIT",
+  "main": "./dist",
+  "bugs": {
+    "url": "https://github.com/SFantasy/react-tui/issues"
+  },
+  "homepage": "https://github.com/SFantasy/react-tui#readme",
+  "dependencies": {
+    "classnames": "^2.2.5"
+  }
+}
