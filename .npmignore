@@ -1,4 +1,6 @@
 src/
+examples/
+tests/
 node_modules/
 .idea/
 .npm-debug.log
